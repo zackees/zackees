@@ -1,9 +1,9 @@
 ## Zach Vorhies &nbsp;·&nbsp; `zackees`
 
-Embedded systems and the build tooling underneath them. The last three years have gone into two
-connected things: the **FastLED** ecosystem — the library, a Rust build tool, a browser compiler,
-a video mapper — and a Rust stack aimed at making C++/Rust builds fast enough to actually iterate
-in.
+Ex-Google. I've spent a career getting big software onto constrained hardware — Google Earth
+into Audi's in-car navigation, YouTube onto TVs and game consoles. The embedded chapter is
+recent: the **FastLED** ecosystem — the library, a Rust build tool, a browser compiler, a video
+mapper — and a Rust stack aimed at making C++/embedded builds fast enough to actually iterate in.
 
 [![FastLED](https://img.shields.io/github/stars/FastLED/FastLED?label=FastLED&color=d9433f&labelColor=1c2b30)](https://github.com/FastLED/FastLED)
 [![fbuild](https://img.shields.io/pypi/dm/fbuild?label=fbuild&color=d9433f&labelColor=1c2b30)](https://pypi.org/project/fbuild/)
